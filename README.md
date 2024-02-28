@@ -17,4 +17,4 @@ On google colab you need to enable gpus, runtime > change runtime type > hardwar
       
 //later: use NLP to read content on webpages and be able to summarize Wikipedia articles --> Reddit threads
 
-***Note: This project is a work in progress but there will be files added to the repository soon, once we get a base model functioning!***
+NA://***Note: This project is a work in progress but there will be files added to the repository soon, once we get a base model functioning!***
